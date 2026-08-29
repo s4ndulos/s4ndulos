@@ -1,130 +1,132 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,80:1a1a2e,100:16213e&height=260&section=header&text=z3ow1&fontSize=110&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=Web%20Developer%20%E2%80%A2%20Network%20Engineer%20%E2%80%A2%20Systems%20Dev&descAlignY=63&descSize=20&descAlign=50&animation=fadeIn&stroke=a78bfa&strokeWidth=3" width="100%"/>
+
+<br>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=0E75B6&center=true&vCenter=true&width=500&lines=Hi!+I'm+S4ndulos;Technical+Informatics+Student;Python+%7C+FastAPI+%7C+C%23;Ethical+Hacking+%26+Networks;Arch+Linux+enthusiast" alt="Typing SVG" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=sqx&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=700&height=50&lines=crafting+web+experiences+from+scratch+%F0%9F%8C%90;systems+programming+in+Rust+%2B+C%2B%2B+%2B+Nim+%F0%9F%A6%80;designing+networks+that+don't+go+down+%F0%9F%94%97;JS+ESM%2FCJS%2C+because+modules+matter+%E2%9A%A1)](https://git.io/typing-svg)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=z3ow1&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
+
+<br>
 
 ---
 
-### Sobre mí
+## `> whoami`
 
+```nim
+# s4ndulos.nim
+
+type Developer = object
+  name:      string
+  role:      seq[string]
+  languages: seq[string]
+  studying:  string
+  status:    string
+
+let me = Developer(
+  name:      "s4ndulos",
+  role:      @["Web Developer", "Network Admin & Design", "Systems Programmer"],
+  languages: @["JavaScript ESM/CJS", "TypeScript", "Rust", "C++", "Nim"],
+  studying:  "Network Administration & Design",
+  status:    "always building something"
+)
+```
+
+---
+
+## `> cat stack.toml`
+
+<div align="center">
+<table>
 <tr>
-<td width="60%">
 
-- **Certificados:** EJPT EJPTV2
--  **Edad:** 16 años  
--  **Ubicación:** Buenos Aires, Argentina  
--  **Estudios:** Técnico en Informática  
--  **Lenguajes favoritos:** Python (FastAPI), C/C++ (bajo nivel), C# (.NET 10 en aprendizaje)  
--  **Intereses:** Seguridad informática, hacking ético, redes, automatización  
--  **Personalización:** Arch Linux + BlackArch tools, configuro mi propio entorno  
--  **Laboratorios:** Escenarios con Packet Tracer, GNS3, y máquinas virtuales para pruebas de penetración  
--  **Comunidad:** Ayudo a nuevos usuarios en servidores de Discord (programación y ciberseguridad)  
+<td align="center" valign="top" width="50%">
 
----
+### Web & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white)
 
-### Entornos y herramientas
+</td>
 
-| Sistema / Distro         | Editores / IDEs             | Terminal / Shell      |
-| ------------------------ | --------------------------- | --------------------- |
-| Windows 11/10/7       | VS Code / Visual Studio  |  CMD / PowerShell    |
-| Arch Linux + BlackArch| Linux Terminal           |  pacman / yay       |
-| Kali Linux            | Neovim (personalizado)   |  Alacritty          |
-| Raspberry Pi 5 (PiOS) | Vim                      |  Zsh + Oh My Zsh    |
-| Debian / Ubuntu Server| Sublime Text             |  Bash               |
+<td align="center" valign="top" width="50%">
 
----
+### Systems
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Nim](https://img.shields.io/badge/Nim-FFE953?style=flat-square&logo=nim&logoColor=black)
 
-### Tech Stack
+</td>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-</p>
+</tr>
+<tr>
 
----
+<td align="center" valign="top">
 
-### Conocimientos de redes y seguridad
+### Network & OS
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
-| Área | Tecnologías / Herramientas | Proyectos / Labs |
-|------|----------------------------|------------------|
-| **Protocolos** | TCP/IP, HTTP/2, DNS, DHCP, VPN (WireGuard) | Configuración de servidor DHCP en Linux |
-| **Firewall** | iptables, nftables, Windows Defender Firewall | Reglas personalizadas en Arch y Windows |
-| **DNS** | Pi-hole (Raspberry Pi 5), Unbound | Bloqueo de anuncios y filtrado en red local |
-| **Análisis de tráfico** | Wireshark, tcpdump, Nmap | Escaneos de red, detección de vulnerabilidades |
-| **Pentesting** | Metasploit, BlackArch tools, keylogger bypass | Laboratorios propios con máquinas vulnerables |
-| **VPN** | WireGuard, PiVPN | Levantamiento de servicios fuera del router |
+</td>
+
+<td align="center" valign="top">
+
+### Tooling
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+</td>
+
+</tr>
+</table>
+</div>
 
 ---
 
-### Proyecto destacado: DesktopManagerStock API
+## `> git log --all --graph`
 
-> **Repositorio:** [sqx/DesktopManagerStock](https://github.com/sqx/DesktopManagerStock)
+<div align="center">
 
-API REST para gestión de inventario y stock, desarrollada con **FastAPI + SQLite + JWT**. Incluye autenticación por roles (admin, editor, lector), rate limiting, registro de movimientos, y despliegue con Docker.
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z3ow1&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z3ow1&theme=tokyonight"/>
 
-#### Características técnicas
+<br/>
 
-- **Framework:** FastAPI (Python)
-- **Base de datos:** SQLite con SQLAlchemy ORM (índices optimizados)
-- **Autenticación:** JWT (python-jose) + bcrypt (passlib)
-- **Roles:** `admin` (total), `editor` (puede modificar stock), `lector` (solo lectura)
-- **Seguridad:** Variables de entorno con Pydantic Settings, validación de SECRET_KEY, CORS configurable, rate limiting por endpoint (SlowAPI)
-- **Movimientos:** Registro automático de cada entrada/salida de stock con auditoría (usuario, fecha, stock resultante)
-- **Logging:** Archivo `app.log` + consola, rotación automática
-- **Despliegue:** Docker + docker-compose, listo para Raspberry Pi 5
-- **Documentación interactiva:** `/docs` (Swagger) y `/redoc`
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z3ow1&theme=tokyonight"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=z3ow1&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6d28d9&ring=a78bfa&fire=f472b6&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=a78bfa&sideLabels=7c3aed&dates=4b5563"/>
 
-> [!NOTE]
-> La API está en constante evolución. Actualmente en versión `0.1.3` (ver `.env.example`).  
+<br/>
 
-<p align="center">
-  <a href="https://github.com/sqx/DesktopManagerStock">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MauroKpoxD&repo=DesktopManagerStock&theme=radical&hide_border=true&bg_color=0D1117&title_color=0E75B6&icon_color=0E75B6&text_color=FFFFFF" />
-  </a>
-</p>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z3ow1&theme=tokyonight"/>
 
----
+<br/>
 
-### Python: Librerías que uso / aprendo
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=z3ow1&bg_color=1a1b27&color=a78bfa&line=6d28d9&point=f472b6&area=true&area_color=1e1b4b&hide_border=true&radius=6"/>
 
-| Categoría | Librerías |
-|-----------|------------|
-| **Web frameworks** | FastAPI, Flask (básico) |
-| **Seguridad** | cryptography (Fernet), python-jose, passlib, bcrypt |
-| **Bases de datos** | SQLAlchemy, SQLite3, Alembic (planeado) |
-| **Validación** | Pydantic, Pydantic Settings |
-| **Testing** | pytest, pytest-cov, factory_boy |
-| **Rate limiting** | slowapi |
-| **Logging** | logging estándar + rotación |
-| **Networking** | requests, httpx, scapy (aprendiendo) |
-
----
-
-### Conecta conmigo
-
-<p align="center">
-  <a href="https://twitter.com/sqx"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://discord.com/users/wwwwwwwwwwwvvwvwvwvvvwv
-"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="mailto:sqx@atlassoftware.org"><img src="https://img.shields.io/badge/atlassoftware.xyz-8B89CC?style=for-the-badge&logoColor=white" /></a>
-  <a href="https://github.com/sqx"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer" />
-  <p><i>"sandulos !"</i></p>
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/github.com%2Fs4ndulos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s4ndulos)
+
 </div>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,40:1a1a2e,80:302b63,100:0f0c29&height=140&section=footer&animation=fadeIn" width="100%"/>
