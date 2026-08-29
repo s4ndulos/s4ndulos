@@ -110,7 +110,6 @@ let me = Developer(
 
 <br/>
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z3ow1&theme=tokyonight"/>
 
 <br/>
 
