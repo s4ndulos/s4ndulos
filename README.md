@@ -114,7 +114,7 @@ let me = Developer(
 
 <br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=z3ow1&bg_color=1a1b27&color=a78bfa&line=6d28d9&point=f472b6&area=true&area_color=1e1b4b&hide_border=true&radius=6"/>
+<img width="98%" src="https://media.discordapp.net/attachments/1540516965192564756/1543384319270068324/content.png?ex=6a94ac28&is=6a935aa8&hm=de091905648384dd2b7126015bfeb2d412471a4221b443a1c156bc5a8cc529d1&=&format=webp&quality=lossless&width=1024&height=349"/>
 
 </div>
 
