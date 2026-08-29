@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,80:1a1a2e,100:16213e&height=260&section=header&text=z3ow1&fontSize=110&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=Web%20Developer%20%E2%80%A2%20Network%20Engineer%20%E2%80%A2%20Systems%20Dev&descAlignY=63&descSize=20&descAlign=50&animation=fadeIn&stroke=a78bfa&strokeWidth=3" width="100%"/>
+<img src="https://media.discordapp.net/attachments/1540516965192564756/1543383143577555036/content.png?ex=6a94ab10&is=6a935990&hm=bfb8a748b43bcfaeea055db675ead710d8b56070d2ee473a28c6f43b8f77439c&=&format=webp&quality=lossless&width=1024&height=343" width="100%"/>
 
 <br>
 
