@@ -65,7 +65,7 @@
 
 | Contacts                                                                                                                                                                                                                                                                                                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <details><summary>💬 Socials</summary><br><img width="15px" src="https://skillicons.dev/icons?i=gmail"> [Gmail](mailto:lorenceisidoro@gmail.com)<br><img width="15px" src="https://skillicons.dev/icons?i=discord"> [Discord](https://example)<br><img width="15px" src="https://skillicons.dev/icons?i=instagram"> [Instagram](https://example)</details> |
+| <details><summary>💬 Socials</summary><br><img width="15px" src="https://skillicons.dev/icons?i=gmail"> [Gmail](rafael46_687@zetva.org)<br><img width="15px" src="https://skillicons.dev/icons?i=discord"> [Discord](https://discord.com/4027367)<br><img width="15px" src="https://skillicons.dev/icons?i=instagram"></details> |
 
 </div>
 
