@@ -1,69 +1,57 @@
-<div align="center">
-
-<img width="180" src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" />
-
-# S4ndulos
-
-### Developer • Backend • Networking • Systems
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white">
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/Nim-FFE953?style=flat-square&logo=nim&logoColor=000000">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,80:1a1a2e,100:16213e&height=260&section=header&text=S4ndulos&fontSize=110&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=Web%20Developer%20%E2%80%A2%20Network%20Engineer%20%E2%80%A2%20Systems%20Developer&descAlignY=63&descSize=20&descAlign=50&animation=fadeIn&stroke=a78bfa&strokeWidth=3" width="100%"/>
 
 <br>
 
-[![GitHub Followers](https://img.shields.io/github/followers/s4ndulos?label=Follow&style=social)](https://github.com/s4ndulos)
-[![GitHub Stars](https://img.shields.io/github/stars/s4ndulos?style=social)](https://github.com/s4ndulos)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=700&height=50&lines=building+web+experiences+from+scratch+%F0%9F%8C%90;writing+clean+JavaScript+%26+modern+web+code+%E2%9A%A1;learning+networking+%26+network+administration+%F0%9F%94%97;turning+ideas+into+working+projects+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=s4ndulos&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
+<br>
+
 ---
 
-## 👨‍💻 About Me
+## `> whoami`
 
 ```js
 // S4ndulos.js
 
-const S4ndulos = {
+const Developer = {
     name: "S4ndulos",
 
     role: [
         "Web Developer",
-        "Backend Developer",
-        "Network Administrator",
-        "Systems Programmer"
+        "Network Engineer",
+        "Systems Developer"
     ],
 
     languages: [
         "JavaScript",
-        "TypeScript",
-        "Rust",
-        "C++",
-        "Nim"
+        "HTML",
+        "CSS"
     ],
 
     focus: [
+        "Web Development",
         "Backend Development",
         "Networking",
-        "Linux & Systems",
         "Network Administration",
-        "Web Technologies"
+        "Linux & Systems"
     ],
 
     studying: "Network Administration & Design",
 
     environment: [
         "Linux",
-        "Arch Linux",
-        "Hyprland"
+        "Arch Linux"
     ],
 
     status: "always building something"
 };
 
-export default S4ndulos;
+export default Developer;
