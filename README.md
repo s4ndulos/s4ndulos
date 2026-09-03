@@ -19,7 +19,7 @@
 # > whoami
 
 ```js
-// S4ndulos.js
+
 
 const Developer = {
     name: "S4ndulos",
