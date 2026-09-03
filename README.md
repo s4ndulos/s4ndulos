@@ -1,4 +1,69 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,80:1a1a2e,100:16213e&height=260&section=header&text=S4ndulos&fontSize=110&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=Web%20Developer%20%E2%80%A2%20Network%20Engineer%20%E2%80%A2%20Systems%20Developer&descAlignY=63&descSize=20&descAlign=50&animation=fadeIn&stroke=a78bfa&strokeWidth=3" width="100%"/>
+
+<br>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=700&height=50&lines=building+web+experiences+from+scratch+%F0%9F%8C%90;JavaScript+%2B+Node.js+%2B+Deno+%E2%9A%A1;learning+networking+%26+network+administration+%F0%9F%94%97;Linux%2C+systems+%26+network+design+%F0%9F%90%A7)](https://git.io/typing-svg)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=s4ndulos&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<br>
+
 ---
+
+## `> whoami`
+
+```js
+// S4ndulos.js
+
+const Developer = {
+    name: "S4ndulos",
+
+    role: [
+        "Web Developer",
+        "Backend Developer",
+        "Network Engineer",
+        "Systems Developer"
+    ],
+
+    technologies: [
+        "JavaScript",
+        "Node.js",
+        "Deno",
+        "HTML",
+        "CSS",
+        "Cisco",
+        "Networking",
+        "Linux"
+    ],
+
+    focus: [
+        "Web Development",
+        "Backend Development",
+        "Networking",
+        "Network Administration",
+        "Network Design",
+        "Linux & Systems"
+    ],
+
+    studying: "Network Administration & Design",
+
+    certification: "Cisco Networking Academy — Networking Basics",
+
+    environment: [
+        "Linux",
+        "Arch Linux"
+    ],
+
+    status: "always building something"
+};
+
+export default Developer;---
 
 ## `> cat stack.toml`
 
