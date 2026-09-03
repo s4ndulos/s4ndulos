@@ -1,4 +1,52 @@
+# > certifications
+
 <div align="center">
+
+<img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
+
+<br><br>
+
+<b>🏆 Cisco Networking Basics</b>
+
+<br>
+
+Cisco Networking Academy
+
+<br><br>
+
+<sub>Certified • 03 Sep 2026</sub>
+
+</div>
+
+---
+
+# > tech stack
+
+<div align="center">
+
+### Web & Backend
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white">
+
+<br><br>
+
+### Networking & Systems
+
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
+
+<br><br>
+
+### Tools
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+</div><div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,80:1a1a2e,100:16213e&height=260&section=header&text=S4ndulos&fontSize=110&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=Web%20Developer%20%E2%80%A2%20Network%20Engineer%20%E2%80%A2%20Systems%20Developer&descAlignY=63&descSize=20&descAlign=50&animation=fadeIn&stroke=a78bfa&strokeWidth=3" width="100%"/>
 
