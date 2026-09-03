@@ -110,7 +110,7 @@
 <br>
 
 **Cisco Networking Academy — Networking Basics**  
-22 Hours · Completed September 3, 2026
+22 Hours · Completed September 2, 2026
 
 </div>
 
