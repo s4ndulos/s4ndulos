@@ -1,5 +1,52 @@
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="50%">
+
+### Web & Frameworks
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white">
+
+</td>
+
+<td align="center" width="50%">
+
+### Systems
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white">
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### Network & OS
+
+<img src="https://img.shields.io/badge/Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white">
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white">
+<img src="https://img.shields.io/badge/IPv4-333333?style=flat-square&logo=internetexplorer&logoColor=white">
+<img src="https://img.shields.io/badge/Wi--Fi-0066CC?style=flat-square&logo=wifi&logoColor=white">
+
+</td>
+
+<td align="center" width="50%">
+
+### Tooling
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+
+</td>
+</tr>
+</table>
+
+</div><div align="center">
+
 <img width="200" src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" />
 
 [![GitHub Followers](https://img.shields.io/github/followers/s4ndulos?label=Follow&style=social)](https://github.com/s4ndulos)
